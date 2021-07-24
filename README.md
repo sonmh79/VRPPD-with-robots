@@ -1,4 +1,1 @@
-# VRPPD-with-robots
-# VRPPD? - Vehicle Routing Problems with Pickup and Delivery
-
-## This program is about VRPPD with robots but,, it only consider delivery !! For now,,
+# 유전 알고리즘을 이용한 VRP 최적해를 구하는 방법입니다.
